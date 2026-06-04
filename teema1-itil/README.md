@@ -23,4 +23,3 @@ Kui kooli WiFi ei tööta, registreeritakse probleem incidentina ning IT tugi ha
 | Incident     | IT probleem       |
 | Change       | Süsteemi muudatus |
 | Service Desk | Kasutajatugi      |
-
