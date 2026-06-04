@@ -1,13 +1,19 @@
-# IT-korralduse-alused
-## Minust
-Minu nimi on Yelizaveta.
-## Bio
-Õpin TTHK-s IT korralduse aluseid. Mind huvitavad tehnoloogia, arvutid ja projektijuhtimine. Soovin õppida rohkem GitHubi, Git’i ja IT süsteemide kohta.
-## Huvid IT valdkonnas
-IT taristu
-Projektijuhtimine
-Git ja GitHub
-Tarkvaraarendus
-Küberturvalisus
-## Asukoht
-Tallinn, Estonia
+# IT korralduse alused
+
+## Autor
+
+Yelizaveta Ilnitskaya
+Grupp: LOGITpv24
+
+## Kursuse kirjeldus
+
+Selles repositooriumis asuvad IT korralduse aluste kursuse materjalid. Repositoorium sisaldab erinevaid teemasid nagu ITIL, protsessid, taristu, Lean ja projektijuhtimine.
+
+## Teemad
+
+* [Teema 1: ITIL](teema1-itil/)
+* [Teema 2: Protsessid](teema2-protsessid/)
+* [Teema 3: Taristu](teema3-taristu/)
+* [Teema 4: Lean](teema4-lean/)
+* [Teema 5: Projekt](teema5-projekt/)
+* [Kokkuvõte](kokkuvote/)
